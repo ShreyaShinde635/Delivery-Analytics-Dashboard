@@ -68,3 +68,4 @@ python -m streamlit run dashboard/app.py
 
 ## Data Note
 This project uses synthetic data generated for learning and demonstration. It does not represent actual Amazon delivery operations.
+<img width="1743" height="757" alt="image" src="https://github.com/user-attachments/assets/4cafc6bc-8ea9-4708-add7-baf1b7bf44d5" />
